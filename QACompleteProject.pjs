@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{3B799012-564A-4E08-9C62-895895EA380A}">
+	<children>
+		<child name="QACompleteProject" key="{D3DD9B3D-6489-4030-AFF7-31EAA42BF6F3}" path="QACompleteProject\QACompleteProject.mds" />
+	</children>
+	<testItems key="{B1484926-4AC3-4A53-997A-0F8F6A269777}">
+		<children>
+			<testItem key="{D3DD9B3D-6489-4030-AFF7-31EAA42BF6F3}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{450B0E3A-7EF7-4EB4-82AF-6A0B618BE9DD}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{A0AD0062-F088-479A-B171-A0FF81986A58}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}">
+		<CrossBrowserTesting Enable="True" />
+	</extender>
+</Root>

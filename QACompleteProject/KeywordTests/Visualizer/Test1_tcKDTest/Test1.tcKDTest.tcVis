@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{FA9490E5-252C-48D6-938C-1FCCFEDDA394}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="43542.6091666667" objectName="Sys.Process(&quot;notepad&quot;).Window(&quot;Notepad&quot;).Window(&quot;Edit&quot;)" objectLeft="8" objectTop="51" objectRight="1015" objectBottom="846" clickPointX="-1977" clickPointY="-120" imageFileName="tcvi27493110976720.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="43542.6092592593" objectName="Sys.Process(&quot;notepad&quot;).Window(&quot;Notepad&quot;)" objectLeft="0" objectTop="0" objectRight="1023" objectBottom="854" clickPointX="-1" clickPointY="-1" imageFileName="tcvi27493950076721.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="43542.6092708333" objectName="Sys.Process(&quot;notepad&quot;).Window(&quot;#32770&quot;, &quot;Notepad&quot;).UIAObject(&quot;Notepad&quot;).Window(&quot;CtrlNotifySink&quot;, &quot;&quot;, 8).Window(&quot;Button&quot;, &quot;Do&amp;n\&apos;t Save&quot;)" objectLeft="178" objectTop="101" objectRight="270" objectBottom="124" clickPointX="210" clickPointY="111" imageFileName="tcvi27494115676722.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
